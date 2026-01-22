@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>موقعي الرسمي</title>
+    <meta name="description" content="هذا موقع HTML بسيط ومنظم">
+    <meta name="keywords" content="html, css, موقع">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>مرحبا في بشولة </h1>
+    <p>زبور بطبعه</p>
+</header>
+
+<nav>
+    <a href="#">نيك</a>
+    <a href="#">الخرطة</a>
+    <a href="#">بزازل</a>
+</nav>
+
+<section>
+    <h2>
+      شكرا على دعمكم مستمر 
+      
+    </h2>
+</section>
+
+<footer>
+    <p>© 2026 جميع الحقوق محفوظة</p>
+</footer>
+
+</body>
+</html>
